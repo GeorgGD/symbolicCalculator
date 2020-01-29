@@ -1,0 +1,28 @@
+* Symbolic Calculator
+  Hello there, this little project was made as an assignment for a 
+  course named "Imperative and object-oriented programming methodology".
+  As the title suggests it's a calculator made in Java.
+
+** Disclaimer
+   I would like to point out that because this assignment was made for
+   a course the original repo is private, plus each student was assigned
+   their own repo but had to share a single one for assignments. This 
+   leads to the problem were the student I worked with was lucky enough 
+   to do all assignments on his repo so even if I forked it, it would be 
+   hard to navigate the repo.
+   So what I have done is extracted the assignment in which I worked 
+   together with my "assignment partner".  
+
+   Of course on an interview I can show the original repo and the logs.
+
+** HOW TO RUN
+   To compile make sure you are on root, then write 'make all' on the
+   terminal. 
+   To run the program write 'make run'. 
+   Finally if you are interested in the documentation, use 'make readDoc'.
+
+** Rules for the calculator
+   When using cos or sin or any other function please make sure to leave 
+   space between the fuction and the number you want to you. 
+   To stop the program please type *quit* .
+
