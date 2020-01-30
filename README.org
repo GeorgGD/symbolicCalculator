@@ -22,7 +22,6 @@
    Finally if you are interested in the documentation, use 'make readDoc'.
 
 ** Rules for the calculator
-   When using cos or sin or any other function please make sure to leave 
-   space between the fuction and the number you want to you. 
-   To stop the program please type *quit* .
-
+   When using */cos/* or */sin/* or any other function please make sure to leave 
+   space between the function and the number you want to use or use parenthesis. 
+   To stop the program please type *quit*.
